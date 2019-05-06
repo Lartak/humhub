@@ -1,15 +1,15 @@
 {
-    "name": "lartakinc/humhub",
+    "name": "lartak/humhub",
     "description": "HumHub - The flexible Open Source Social Network Kit for Collaboration",
     "keywords": ["humhub", "yii2", "framework"],
     "homepage": "https://www.humhub.org",
     "type": "project",
     "license": "AGPL-3.0",
     "support": {
-        "issues": "https://github.com/lartakinc/humhub/issues?state=open",
+        "issues": "https://github.com/lartak/humhub/issues?state=open",
         "forum": "https://community.humhub.com",
         "wiki": "https://community.humhub.com",
-        "source": "https://github.com/lartakinc/humhub"
+        "source": "https://github.com/lartak/humhub"
     },
     "minimum-stability": "stable",
     "require": {
